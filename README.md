@@ -10,7 +10,9 @@ Outside of coding, I'm always experimenting with new ideas and building projects
 
 📬 Feel free to reach out if you'd like to collaborate or have an opportunity.
 
+
 ## 🚀 Tech Stack
+
 <p align="">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,supabase,postgres,sqlite,git,github,vscode,figma,vercel&theme=dark&perline=8" />
 </p>
